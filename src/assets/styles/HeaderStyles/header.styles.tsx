@@ -119,6 +119,7 @@ export const ContactInfoFacebookIconWrapper = styled.div`
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
+    cursor: pointer;
 `;
 
 export const ContactInfoFacebookIcon = styled.img`
@@ -134,6 +135,7 @@ export const ContactInfoInstagramIconWrapper = styled.div`
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
+    cursor: pointer;
 `;
 
 export const ContactInfoInstagramIcon = styled.img`
@@ -149,6 +151,7 @@ export const ContactInfoTwitterIconWrapper = styled.div`
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
+    cursor: pointer;
 `;
 
 export const ContactInfoTwitterIcon = styled.img`
@@ -163,6 +166,7 @@ export const ContactInfoYoutubeIconWrapper = styled.div`
     background-size: cover;
     background-position: center;
     background-size: contain;
+    cursor: pointer;
     background-repeat: no-repeat;
 `;
 
