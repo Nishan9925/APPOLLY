@@ -1,0 +1,41 @@
+import {
+    TeamWrapper,
+    TeamTexts,
+    TeamTextsTitle,
+    TeamTextsText,
+    TeamCardsWrapper,
+    TeamCardWrapper,
+    ProfilePictureWrapper,
+    ProfileCircle,
+    ProfileImage,
+    TeamCardTextsNameWrapper,
+    TeamCardTextsName,
+    TeamCardTextsProffesion,
+    TeamCardDescription,
+    SocialMediaWrapper,
+    Line,
+    ContactInfoFacebookIconWrapper,
+    ContactInfoFacebookIcon,
+
+} from "./team.styles";
+
+export {
+    TeamWrapper,
+    TeamTexts,
+    TeamTextsTitle,
+    TeamTextsText,
+    TeamCardsWrapper,
+    TeamCardWrapper,
+    ProfilePictureWrapper,
+    ProfileCircle,
+    ProfileImage,
+    TeamCardTextsNameWrapper,
+    TeamCardTextsName,
+    TeamCardTextsProffesion,
+    TeamCardDescription,
+    SocialMediaWrapper,
+    Line,
+    ContactInfoFacebookIconWrapper,
+    ContactInfoFacebookIcon,
+    
+}

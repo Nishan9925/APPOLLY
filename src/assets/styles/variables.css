@@ -1,0 +1,20 @@
+:root{
+
+--font-family: 'Josefin Sans', sans-serif;
+
+/* colors */
+--royal-blue: rgba(88, 81, 234, 1);
+--black: rgba(35, 34, 51, 1);
+--white: rgba(255, 255, 255, 1);
+--gray: rgba(108, 108, 114, 1);
+
+/* font-sizes */
+--font-H1: 3.815rem;
+--font-H2: 3.051875rem;
+--font-H3: 2.44125rem;
+--font-H4: 1.953125rem;
+--font-H5: 1.5625rem;
+--font-H6: 1.25rem;
+--font-H7: 1rem;
+--font-H8: 0.8rem;
+}
