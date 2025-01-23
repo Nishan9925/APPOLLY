@@ -73,6 +73,7 @@ export const GooglePlayWrapper = styled.div`
     background-size: cover;
     background-position: center;
     background-size: contain;
+    cursor: pointer;
     background-repeat: no-repeat;
 `;
 
@@ -88,6 +89,7 @@ export const AppStoreWrapper = styled.div`
     background-size: cover;
     background-position: center;
     background-size: contain;
+    cursor: pointer;
 `;
 
 export const AppStoreImg = styled.img`
@@ -155,8 +157,7 @@ export const DownloadRatingsStatsText = styled.p`
 
     @media (max-width: 1000px) {
         font-size: var(--font-H6);
-    }
-    
+    }  
 `;
 
 export const DownloadRatingsStatsTitle = styled.p`

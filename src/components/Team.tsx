@@ -1,4 +1,4 @@
-import { ContactInfoFacebookIcon, ContactInfoFacebookIconWrapper, Line, ProfileCircle, ProfileImage, ProfilePictureWrapper, SocialMediaWrapper, TeamCardDescription, TeamCardsWrapper, TeamCardTextsName, TeamCardTextsNameWrapper, TeamCardTextsProffesion, TeamCardWrapper, TeamTexts, TeamTextsText, TeamTextsTitle, TeamWrapper } from "../assets/styles/TeamStyles/team";
+import { ContactInfoSocialMediaIcon, ContactInfoSocialMediaIconWrapper, Line, ProfileCircle, ProfileImage, ProfilePictureWrapper, SocialMediaWrapper, TeamCardDescription, TeamCardsWrapper, TeamCardTextsName, TeamCardTextsNameWrapper, TeamCardTextsProffesion, TeamCardWrapper, TeamTexts, TeamTextsText, TeamTextsTitle, TeamWrapper } from "../assets/styles/TeamStyles/team";
 import profile1 from "../assets/images/profile1.png";
 import profile2 from "../assets/images/profile2.png";
 import profile3 from "../assets/images/profile3.png";
@@ -35,21 +35,21 @@ function Team() {
                         </TeamCardDescription>
                     </TeamCardTextsNameWrapper>
                     <SocialMediaWrapper>
-                        <ContactInfoFacebookIconWrapper>
-                            <ContactInfoFacebookIcon src={facebookIconDark} />
-                        </ContactInfoFacebookIconWrapper>
+                        <ContactInfoSocialMediaIconWrapper>
+                            <ContactInfoSocialMediaIcon src={facebookIconDark} />
+                        </ContactInfoSocialMediaIconWrapper>
                         <Line></Line>
-                        <ContactInfoFacebookIconWrapper>
-                            <ContactInfoFacebookIcon src={instagramIconDark} />
-                        </ContactInfoFacebookIconWrapper>
+                        <ContactInfoSocialMediaIconWrapper>
+                            <ContactInfoSocialMediaIcon src={instagramIconDark} />
+                        </ContactInfoSocialMediaIconWrapper>
                         <Line></Line>
-                        <ContactInfoFacebookIconWrapper>
-                            <ContactInfoFacebookIcon src={twitterIconDark} />
-                        </ContactInfoFacebookIconWrapper>
+                        <ContactInfoSocialMediaIconWrapper>
+                            <ContactInfoSocialMediaIcon src={twitterIconDark} />
+                        </ContactInfoSocialMediaIconWrapper>
                         <Line></Line>
-                        <ContactInfoFacebookIconWrapper>
-                            <ContactInfoFacebookIcon src={youtubeIconDark} />
-                        </ContactInfoFacebookIconWrapper>
+                        <ContactInfoSocialMediaIconWrapper>
+                            <ContactInfoSocialMediaIcon src={youtubeIconDark} />
+                        </ContactInfoSocialMediaIconWrapper>
                     </SocialMediaWrapper>
                 </TeamCardWrapper>
                 <TeamCardWrapper>
@@ -69,21 +69,21 @@ function Team() {
                         </TeamCardDescription>
                     </TeamCardTextsNameWrapper>
                     <SocialMediaWrapper>
-                        <ContactInfoFacebookIconWrapper>
-                            <ContactInfoFacebookIcon src={facebookIconDark} />
-                        </ContactInfoFacebookIconWrapper>
+                        <ContactInfoSocialMediaIconWrapper>
+                            <ContactInfoSocialMediaIcon src={facebookIconDark} />
+                        </ContactInfoSocialMediaIconWrapper>
                         <Line></Line>
-                        <ContactInfoFacebookIconWrapper>
-                            <ContactInfoFacebookIcon src={instagramIconDark} />
-                        </ContactInfoFacebookIconWrapper>
+                        <ContactInfoSocialMediaIconWrapper>
+                            <ContactInfoSocialMediaIcon src={instagramIconDark} />
+                        </ContactInfoSocialMediaIconWrapper>
                         <Line></Line>
-                        <ContactInfoFacebookIconWrapper>
-                            <ContactInfoFacebookIcon src={twitterIconDark} />
-                        </ContactInfoFacebookIconWrapper>
+                        <ContactInfoSocialMediaIconWrapper>
+                            <ContactInfoSocialMediaIcon src={twitterIconDark} />
+                        </ContactInfoSocialMediaIconWrapper>
                         <Line></Line>
-                        <ContactInfoFacebookIconWrapper>
-                            <ContactInfoFacebookIcon src={youtubeIconDark} />
-                        </ContactInfoFacebookIconWrapper>
+                        <ContactInfoSocialMediaIconWrapper>
+                            <ContactInfoSocialMediaIcon src={youtubeIconDark} />
+                        </ContactInfoSocialMediaIconWrapper>
                     </SocialMediaWrapper>
                 </TeamCardWrapper>
                 <TeamCardWrapper>
@@ -103,21 +103,21 @@ function Team() {
                         </TeamCardDescription>
                     </TeamCardTextsNameWrapper>
                     <SocialMediaWrapper>
-                        <ContactInfoFacebookIconWrapper>
-                            <ContactInfoFacebookIcon src={facebookIconDark} />
-                        </ContactInfoFacebookIconWrapper>
+                        <ContactInfoSocialMediaIconWrapper>
+                            <ContactInfoSocialMediaIcon src={facebookIconDark} />
+                        </ContactInfoSocialMediaIconWrapper>
                         <Line></Line>
-                        <ContactInfoFacebookIconWrapper>
-                            <ContactInfoFacebookIcon src={instagramIconDark} />
-                        </ContactInfoFacebookIconWrapper>
+                        <ContactInfoSocialMediaIconWrapper>
+                            <ContactInfoSocialMediaIcon src={instagramIconDark} />
+                        </ContactInfoSocialMediaIconWrapper>
                         <Line></Line>
-                        <ContactInfoFacebookIconWrapper>
-                            <ContactInfoFacebookIcon src={twitterIconDark} />
-                        </ContactInfoFacebookIconWrapper>
+                        <ContactInfoSocialMediaIconWrapper>
+                            <ContactInfoSocialMediaIcon src={twitterIconDark} />
+                        </ContactInfoSocialMediaIconWrapper>
                         <Line></Line>
-                        <ContactInfoFacebookIconWrapper>
-                            <ContactInfoFacebookIcon src={youtubeIconDark} />
-                        </ContactInfoFacebookIconWrapper>
+                        <ContactInfoSocialMediaIconWrapper>
+                            <ContactInfoSocialMediaIcon src={youtubeIconDark} />
+                        </ContactInfoSocialMediaIconWrapper>
                     </SocialMediaWrapper>
                 </TeamCardWrapper>
             </TeamCardsWrapper>

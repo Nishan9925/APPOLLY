@@ -32,8 +32,7 @@ export const HelpSectionTextsWrapper = styled.div`
     @media (max-width: 690px) {
         margin-top: 3.125rem;
         gap: 2.5rem;
-    }
-    
+    }    
 `;
     
 export const HelpSectionTexts = styled.div`

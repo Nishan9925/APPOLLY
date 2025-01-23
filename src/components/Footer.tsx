@@ -1,4 +1,4 @@
-import { Line, BackgroundColor, ContactInfoFacebookIcon, ContactInfoFacebookIconWrapper, FooterContainer, FooterWrapper, LinksWrapper, LogoNewsWrapper, LogoWrapper, LogoWrapperTexts, LogoWrapperTextsDescription, LogoWrapperTextsTitle, NewsWrapper, SocialMediaWrapper, LinksTitle, FooterMenuText, NewsWrapperTexts, NewsWrapperTitle, NewsWrapperText, FooterLine, FooterCopyrightText, FooterCopyrightTextWrapper, FooterCopyrightIcon } from "../assets/styles/FooterStyles/footer";
+import { Line, BackgroundColor, ContactInfoSocialMediaIcon, ContactInfoSocialMediaIconWrapper, FooterContainer, FooterWrapper, LinksWrapper, LogoNewsWrapper, LogoWrapper, LogoWrapperTexts, LogoWrapperTextsDescription, LogoWrapperTextsTitle, NewsWrapper, SocialMediaWrapper, LinksTitle, FooterMenuText, NewsWrapperTexts, NewsWrapperTitle, NewsWrapperText, FooterLine, FooterCopyrightText, FooterCopyrightTextWrapper, FooterCopyrightIcon } from "../assets/styles/FooterStyles/footer";
 import facebookIcon from "../assets/icons/facebook-fill.png";
 import instagramIcon from "../assets/icons/instagram-fill.png";
 import twitterIcon from "../assets/icons/twitter-fill.png";
@@ -24,21 +24,21 @@ function Footer () {
                                 </LogoWrapperTextsDescription>
                             </LogoWrapperTexts>
                             <SocialMediaWrapper>
-                                <ContactInfoFacebookIconWrapper>
-                                    <ContactInfoFacebookIcon src={facebookIcon}/>
-                                </ContactInfoFacebookIconWrapper>
+                                <ContactInfoSocialMediaIconWrapper>
+                                    <ContactInfoSocialMediaIcon src={facebookIcon}/>
+                                </ContactInfoSocialMediaIconWrapper>
                                 <Line></Line>
-                                <ContactInfoFacebookIconWrapper>
-                                    <ContactInfoFacebookIcon src={instagramIcon}/>
-                                </ContactInfoFacebookIconWrapper>
+                                <ContactInfoSocialMediaIconWrapper>
+                                    <ContactInfoSocialMediaIcon src={instagramIcon}/>
+                                </ContactInfoSocialMediaIconWrapper>
                                 <Line></Line>
-                                <ContactInfoFacebookIconWrapper>
-                                    <ContactInfoFacebookIcon src={twitterIcon}/>
-                                </ContactInfoFacebookIconWrapper>
+                                <ContactInfoSocialMediaIconWrapper>
+                                    <ContactInfoSocialMediaIcon src={twitterIcon}/>
+                                </ContactInfoSocialMediaIconWrapper>
                                 <Line></Line>
-                                <ContactInfoFacebookIconWrapper>
-                                    <ContactInfoFacebookIcon src={youtubeIcon}/>
-                                </ContactInfoFacebookIconWrapper>
+                                <ContactInfoSocialMediaIconWrapper>
+                                    <ContactInfoSocialMediaIcon src={youtubeIcon}/>
+                                </ContactInfoSocialMediaIconWrapper>
                             </SocialMediaWrapper>
                         </LogoWrapper>
                         <LinksWrapper>

@@ -308,6 +308,7 @@ export const GooglePlayWrapper = styled.div`
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
+    cursor: pointer;
 `;
 
 export const GooglePlayImg = styled.img`
@@ -322,6 +323,7 @@ export const AppStoreWrapper = styled.div`
     background-size: cover;
     background-position: center;
     background-size: contain;
+    cursor: pointer;
 `;
 
 export const AppStoreImg = styled.img`

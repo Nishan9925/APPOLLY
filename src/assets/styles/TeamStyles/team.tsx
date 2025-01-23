@@ -14,8 +14,8 @@ import {
     TeamCardDescription,
     SocialMediaWrapper,
     Line,
-    ContactInfoFacebookIconWrapper,
-    ContactInfoFacebookIcon,
+    ContactInfoSocialMediaIconWrapper,
+    ContactInfoSocialMediaIcon,
 
 } from "./team.styles";
 
@@ -35,7 +35,7 @@ export {
     TeamCardDescription,
     SocialMediaWrapper,
     Line,
-    ContactInfoFacebookIconWrapper,
-    ContactInfoFacebookIcon,
+    ContactInfoSocialMediaIconWrapper,
+    ContactInfoSocialMediaIcon,
     
 }

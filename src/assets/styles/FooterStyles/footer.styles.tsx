@@ -91,16 +91,17 @@ export const Line = styled.div`
     background-color: var(--gray);
 `;
 
-export const ContactInfoFacebookIconWrapper = styled.div`
+export const ContactInfoSocialMediaIconWrapper = styled.div`
     width: 1.125rem;
     height: 1.125rem;
     background-size: cover;
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
+    cursor: pointer;
 `;
 
-export const ContactInfoFacebookIcon = styled.img`
+export const ContactInfoSocialMediaIcon = styled.img`
     width: 100%;
     height: 100%;
 `;
@@ -113,7 +114,7 @@ export const LinksWrapper = styled.div`
     gap: 0.75rem;
 `;
 
-export const LinksTitle = styled.div`
+export const LinksTitle = styled.ul`
     font-size: var(--font-H5);
     font-weight: 600;
     line-height: 2.34375rem;
@@ -121,11 +122,12 @@ export const LinksTitle = styled.div`
     text-transform: uppercase;
 `;
 
-export const FooterMenuText = styled.div`
+export const FooterMenuText = styled.li`
     font-size: var(--font-H7);
     font-weight: 400;
     line-height: 1.5rem;
     color: var(--white);
+    cursor: pointer;
 `;
 
 export const NewsWrapper = styled.div`

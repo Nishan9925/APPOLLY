@@ -44,6 +44,7 @@ export const NavbarLink = styled.p`
     border-radius: ${({ variant }) => 
         variant === "download" ? "5px" : "null"
     };
+    cursor: pointer;
 
     &:hover {
         color: ${({ variant }) => 

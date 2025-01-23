@@ -165,16 +165,18 @@ export const Line = styled.div`
     background-color: var(--gray);
 `;
 
-export const ContactInfoFacebookIconWrapper = styled.div`
+export const ContactInfoSocialMediaIconWrapper = styled.div`
     width: 1.125rem;
     height: 1.125rem;
     background-size: cover;
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
+    cursor: pointer;
+
 `;
 
-export const ContactInfoFacebookIcon = styled.img`
+export const ContactInfoSocialMediaIcon = styled.img`
     width: 100%;
     height: 100%;
 `;
